@@ -1,8 +1,8 @@
 # goes-standalone
-This is a brief example of how to extract [NOAA GOES-16 satellite](https://www.nesdis.noaa.gov/GOES-R-Series-Satellites) dumps from the [GOES-16 Dataset](console.cloud.google.com/marketplace/product/noaa-public/goes-16) hosted in Google BigQuery.
+This is an introductory example of how to extract [NOAA GOES-16 satellite](https://www.nesdis.noaa.gov/GOES-R-Series-Satellites) dumps from the [GOES-16 Dataset](console.cloud.google.com/marketplace/product/noaa-public/goes-16) hosted in Google BigQuery. 
 
 # Setup
-Assuming you have Python 3.7 or later installed, set up an environment, having installed the following modules with pip:
+Assuming you have Python 3.7 or later installed, set up a Python environment and install the following modules with pip:
 * numpy
 * matplotlib
 * glob
